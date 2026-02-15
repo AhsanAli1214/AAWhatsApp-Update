@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'20', 'ver3':'\n• App Crash Issue Solved\n• Base updated to Latest Play Store\n• Enjoy new features and improvements\n• Performance and stability enhancements\n• Smooth and secure experience\n' , 'dli':'https://aa-mods.vercel.app/'}
+{'ver1':'4', 'ver2':'10', 'ver3':'\n• App Crash Issue Fixed\n• Enjoy new features and improvements\n• Performance and stability enhancements\n• Smooth and secure experience\n' , 'dli':'https://aa-mods.vercel.app/'}
